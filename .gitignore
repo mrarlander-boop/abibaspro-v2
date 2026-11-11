@@ -1,0 +1,5 @@
+.env
+voice_time.db*
+__pycache__/
+*.pyc
+.DS_Store
